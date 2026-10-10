@@ -1,4 +1,3 @@
-
 package com.tienda.tienda.repository;
 
 import com.tienda.tienda.domain.Categoria;
